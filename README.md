@@ -24,4 +24,3 @@
 
 ___
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zoyron?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zoyron&theme=tokyonight&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
